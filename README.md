@@ -138,8 +138,9 @@ Of the negative-quantity records identified:
 | Other negative records (operational adjustments) | 3,457 |
 
 The operational adjustments include entries such as lost, damaged, check, mixed, short, and other non-sale, non-return corrections. Distinguishing these from genuine customer returns keeps the revenue and return-rate figures accurate.
-**Cleaned Dataset:** [Download Dataset]([YOUR_GOOGLE_DRIVE_LINK](https://drive.google.com/file/d/1sSyaaB05-Ub__SPn6G5xHIdOTdg56T88/view?usp=drive_link))
+
 ---
+**Cleaned Dataset:** [Download Dataset](https://drive.google.com/file/d/1sSyaaB05-Ub__SPn6G5xHIdOTdg56T88/view?usp=drive_link)  
 
 ## Revenue Methodology
 
@@ -151,8 +152,7 @@ Return Value  = Absolute value of return/cancellation transaction values
 Net Revenue   = Gross Sales − Return Value
 ```
 
-Returns and cancellations are intentionally kept visible rather than netted away silently, so their financial impact can be reported and monitored on its own.  
-
+Returns and cancellations are intentionally kept visible rather than netted away silently, so their financial impact can be reported and monitored on its own.
 
 ---
 
